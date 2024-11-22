@@ -71,6 +71,7 @@ users = {
     "Timi": {"pin": "0000", "account_number": None, "balance": 0.00}
 }
 
+
 # Generate a random account number
 def generate_random_account_number():
     return random.randint(10000000000,99999999999)
